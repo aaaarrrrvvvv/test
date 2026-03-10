@@ -3,12 +3,13 @@ email: me@connellmccarthy.com
 description: >- # this means to ignore newlines until "baseurl:"
   A multi-faceted Canadian Creative with a passion for 
   finding the blend between aesthetic and functionality.
-url: "https://aaaarrrrvvvv.github.io/test" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aaaarrrrvvvv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test"
 twitter_username: connellmccarthy
 github_username: connellmccarthy
 permalink: pretty
 image_path: /assets/articles/
-repository: test/aaaarrrrvvvv.github.io
+repository: aaaarrrrvvvv/test
 sass:
   sass_dir: _sass
   style: compressed
